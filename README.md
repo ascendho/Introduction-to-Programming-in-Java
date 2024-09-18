@@ -1,1 +1,1 @@
-This repository contains all the code from the book Introduction to Programming in Java by Robert Sedgewick and Kevin Wayne.
+This repository contains all the code from the book Introduction to Programming in Java by Robert Sedgewick and Kevin Wayne, each java file is tested on my machine and pass.
